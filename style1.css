@@ -1,0 +1,17 @@
+.modal {
+    transition: opacity 0.3s, transform 0.3s;
+}
+
+.modal-container {
+    background-color: #3f2d6e;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-header {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+}
